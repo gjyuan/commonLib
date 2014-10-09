@@ -1,7 +1,5 @@
 <?php
-
-namespace Common\Utils;
-
+namespace Utils;
 class Url {
 
     private static $httpStatusHeader = array(
