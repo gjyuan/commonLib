@@ -7,7 +7,7 @@
  *   4. mysql和redis实例的维护
  */
 
-namespace Common\Db;
+namespace Db;
 
 abstract class Dao {
 

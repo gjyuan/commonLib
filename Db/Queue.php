@@ -5,7 +5,7 @@
  * 批量取出数据：lrange(), then ltrim()
  */
 
-namespace Common\Db;
+namespace Db;
 
 class Queue extends namespace\Dao {
 
