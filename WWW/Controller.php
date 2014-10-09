@@ -1,6 +1,6 @@
 <?php
 
-namespace Common\WWW;
+namespace WWW;
 
 abstract class Controller {
 
